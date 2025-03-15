@@ -1,1 +1,0 @@
-console.log("Elden Ring Cheat Menu is active!");
